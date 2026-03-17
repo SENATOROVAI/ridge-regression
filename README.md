@@ -1,4 +1,4 @@
-# stepik: https://stepik.org/a/252263
+#### https://SenatorovAI.com
 
 # L2 Regularization (Ridge Regression) — Data Science & Machine Learning
 
